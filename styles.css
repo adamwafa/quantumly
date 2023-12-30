@@ -1,0 +1,217 @@
+h4 {
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: 100;
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-family: 'Lemon/Milk', sans-serif;
+  margin-top: 600px;
+}
+
+.font {
+  font-family: 'Lemon/Milk', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.font-center {
+  font-family: 'Lemon/Milk', sans-serif;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.container {
+  display: inline-block
+}
+
+.text {
+  letter-spacing: 10px;
+  font-family: 'Lemon/Milk', sans-serif;
+  border-right: 5px solid;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  animation:
+    typing 2s steps(17),
+    cursor .4s step-end infinite alternate;
+}
+
+.earth {
+  background-image: url(images/EAM.JPEG);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.topicsList {
+  background-image: url(images/SPACE.JPEG);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.centerofMass {
+  background-image: url(images/ag-carinae-hubble-3840x2160-12805.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.conduction {
+  background-image: url(images/radiation.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.propOfWaves {
+  background-image: url(images/waves.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Lemon/Milk', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.speedVelocity {
+  background-image: url(images/SPEED.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.svsv {
+  background-image: url(images/mars.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.thermalExpansion {
+  background-image: url(images/planet-earth-space-art-space-wallpaper-d970180de1aa7d9bf647b80f7031f6fd.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.stateOfMatters {
+  background-image: url(images/stateOfMatters.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.soundOfWaves {
+  background-image: url(images/soundwaves.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.pressure {
+  background-image: url(images/pressure.Jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.massWeight {
+  background-image: url(images/download.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.light {
+  background-image: url(images/waves.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.lengthTime {
+  background-image: url(images/moon.JPEG);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.forces {
+  background-image: url(images/895971.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.energy {
+  background-image: url(images/nrg.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.radioActivities {
+  background-image: url(images/radioactive.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.density {
+  background-image: url(images/bm.JPEG);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.atomicModel {
+  background-image: url(images/atomicmodel.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.workAndpower {
+  background-image: url(images/marscloseup.Jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+#google_translate_element {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.goog-te-gadget-simple {
+  border: none;
+  background-color: #f9f9f9;
+  color: #555;
+}
