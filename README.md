@@ -1,2 +1,2 @@
-# quantumly.github.io
-Quantumly is a website to help people learn more about physics. 
+# Quantumly
+Quantumly is a website to help students learn more about physics.
